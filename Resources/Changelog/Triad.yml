@@ -863,3 +863,12 @@ Entries:
   id: 2223
   time: '2026-05-24T10:36:56.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/119
+- author: rebaserHEAD
+  changes:
+    - type: Tweak
+      message: >-
+        Hydrakin emotes now play at the default species volume instead of being
+        attenuated 8 dB.
+  id: 2224
+  time: '2026-05-24T12:51:37.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/122
