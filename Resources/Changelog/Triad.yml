@@ -825,3 +825,16 @@ Entries:
   id: 2219
   time: '2026-05-23T16:23:09.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/111
+- author: Shy-ivy
+  changes:
+    - type: Add
+      message: 'Rodentia and mice can now consume theobromine and allicin '
+    - type: Tweak
+      message: Rodentia now have rat organs
+    - type: Tweak
+      message: >-
+        Ammonia healing was nerfed for rat organs from 5 to 0.25 burn 0.1 brute
+        and 0.1  bloodloss
+  id: 2220
+  time: '2026-05-24T00:59:01.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/105
