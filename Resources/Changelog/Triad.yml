@@ -1113,3 +1113,12 @@ Entries:
   id: 2252
   time: '2026-06-02T03:25:15.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/164
+- author: Dimasw99
+  changes:
+    - type: Tweak
+      message: >-
+        Adjusted oxy, plasma and nitrogen station miners from 400mol/s to 6, 6
+        and 24 respectively
+  id: 2253
+  time: '2026-06-02T03:29:46.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/171
