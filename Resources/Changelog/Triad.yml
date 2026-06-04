@@ -1240,3 +1240,12 @@ Entries:
   id: 2263
   time: '2026-06-04T02:37:41.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/134
+- author: Frontier
+  changes:
+    - type: Add
+      message: >-
+        Added a countdown to when the shift will end to the PDA. Hey! Stop
+        watching the clock and get back to work!
+  id: 2264
+  time: '2026-06-04T03:11:26.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/103
