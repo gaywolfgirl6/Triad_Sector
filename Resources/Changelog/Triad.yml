@@ -1451,3 +1451,14 @@ Entries:
   id: 2285
   time: '2026-06-11T22:21:15.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/209
+- author: SquishyEmmaaaa
+  changes:
+    - type: Remove
+      message: >-
+        VegetableOil reagent no longer obtainable, now unused. Any existing
+        stock has gone stale!
+    - type: Tweak
+      message: Corn Oil is now known as Vegetable Oil!
+  id: 2286
+  time: '2026-06-11T22:32:13.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/159
