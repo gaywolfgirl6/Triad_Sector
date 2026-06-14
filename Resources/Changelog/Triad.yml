@@ -1580,3 +1580,10 @@ Entries:
   id: 2298
   time: '2026-06-14T17:01:23.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/194
+- author: Wuffindy
+  changes:
+    - type: Tweak
+      message: Service workers now can access Janitor supplies, within reason
+  id: 2299
+  time: '2026-06-14T17:04:39.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/202
