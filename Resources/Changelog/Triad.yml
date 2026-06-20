@@ -1765,3 +1765,12 @@ Entries:
   id: 2314
   time: '2026-06-20T02:22:09.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/204
+- author: rebaserHEAD
+  changes:
+    - type: Tweak
+      message: >-
+        Accents no longer tack random interjections and sign-offs onto your
+        speech; their pronunciation and word swaps are unchanged.
+  id: 2315
+  time: '2026-06-20T06:05:45.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/241
