@@ -1840,3 +1840,16 @@ Entries:
   id: 2319
   time: '2026-06-21T07:16:46.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/162
+- author: Wuffindy
+  changes:
+    - type: Add
+      message: >-
+        Cherry-picked a bunch of Vulp sprites for most hardsuits, modsuits,
+        masks & etc
+    - type: Fix
+      message: fixed some Hydrakin & Vox sprite
+    - type: Fix
+      message: ATU Tacsuit sprite nose sticking out
+  id: 2320
+  time: '2026-06-21T07:19:29.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/196
