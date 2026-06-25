@@ -1970,3 +1970,12 @@ Entries:
   id: 2332
   time: '2026-06-25T21:20:34.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/263
+- author: DDrakov
+  changes:
+    - type: Fix
+      message: >-
+        Fixed a bug in Lidgren.Network HandleReleasedFragment that could cause
+        out of memory errors.
+  id: 2333
+  time: '2026-06-25T21:22:28.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/264
