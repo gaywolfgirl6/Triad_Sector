@@ -2009,3 +2009,10 @@ Entries:
   id: 2337
   time: '2026-06-27T09:28:24.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/233
+- author: Eillyrea
+  changes:
+    - type: Remove
+      message: 'Ghost Roles: PDA and Baby Dragon due to rule breach potential'
+  id: 2338
+  time: '2026-06-28T04:18:35.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/269
