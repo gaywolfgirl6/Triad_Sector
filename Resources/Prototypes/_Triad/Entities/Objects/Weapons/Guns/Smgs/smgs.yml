@@ -45,13 +45,7 @@
   - type: Clothing
     sprite: _Triad/Objects/Weapons/Guns/SMGs/squire_inhands_32x.rsi
   - type: ItemToggle
-    activated: false
-    onUse: false
-    onActivate: false
-    onAltUse: true
     altPriority: 1
-    verbToggleOff: fold-verb
-    verbToggleOn: unfold-verb
     soundActivate:
       path: /Audio/_Mono/Weapons/Guns/SmallArms/MagIn/m16_magin.ogg
       params:

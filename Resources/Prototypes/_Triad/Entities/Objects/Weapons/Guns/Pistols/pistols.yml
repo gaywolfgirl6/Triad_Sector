@@ -9,6 +9,7 @@
     maxAngle: -6
     bonusFireRate: -1
     requiresToggle: false
+    doAfterTime: 1.5
   - type: GunChangeShotSoundOnToggled
     sound:
       path: /Audio/_Mono/Weapons/Guns/SmallArms/Gunshots/hawk_fire.ogg
@@ -48,9 +49,6 @@
   - type: Clothing
     sprite: _Triad/Objects/Weapons/Guns/SMGs/squire_inhands_32x.rsi
   - type: ItemToggle
-    onAltUse: true
-    verbToggleOff: fold-verb
-    verbToggleOn: unfold-verb
     altPriority: 1
     soundActivate:
       path: /Audio/_Mono/Weapons/Guns/SmallArms/MagIn/m16_magin.ogg
