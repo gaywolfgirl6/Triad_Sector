@@ -2077,3 +2077,10 @@ Entries:
   id: 2345
   time: '2026-07-04T01:16:39.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/284
+- author: Wuffindy
+  changes:
+    - type: Tweak
+      message: Readjusted sprite sizes and offsets of several guns
+  id: 2346
+  time: '2026-07-04T06:13:24.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/281
