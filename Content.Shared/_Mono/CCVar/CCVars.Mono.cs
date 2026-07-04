@@ -199,6 +199,4 @@ public sealed partial class MonoCVars
         CVarDef.Create("mono.projectile.adaptive_raycast_threshold", true, CVar.ARCHIVE | CVar.REPLICATED);
 
     #endregion
-
-    #endregion
 }
