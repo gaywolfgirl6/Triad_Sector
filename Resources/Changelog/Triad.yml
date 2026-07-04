@@ -2095,3 +2095,12 @@ Entries:
   id: 2347
   time: '2026-07-04T06:13:42.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/279
+- author: Eillyrea
+  changes:
+    - type: Tweak
+      message: >-
+        Rules after community feedback/clarification requests.  Please see PR
+        for full list of changes
+  id: 2348
+  time: '2026-07-04T14:29:07.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/285
