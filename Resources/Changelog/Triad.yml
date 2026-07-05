@@ -2120,3 +2120,13 @@ Entries:
   id: 2350
   time: '2026-07-05T04:16:35.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/280
+- author: HTMLSystem
+  changes:
+    - type: Fix
+      message: >-
+        Arachnid and moth eyewear sprites will now work, but only on
+        wizden-original eyewear. Will make sprites for eyewear from other forks
+        soon!
+  id: 2351
+  time: '2026-07-05T04:22:32.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/282
