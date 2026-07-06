@@ -2130,3 +2130,10 @@ Entries:
   id: 2351
   time: '2026-07-05T04:22:32.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/282
+- author: mnva0
+  changes:
+    - type: Fix
+      message: Trap Avoider no longer allows walking on lava or over chasms.
+  id: 2352
+  time: '2026-07-06T22:08:00.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/290
