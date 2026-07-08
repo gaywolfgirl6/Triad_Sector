@@ -2230,3 +2230,12 @@ Entries:
   id: 2359
   time: '2026-07-08T13:53:31.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/292
+- author: HTMLSystem
+  changes:
+    - type: Tweak
+      message: >-
+        Change up arachnid's layering. Big glasses and over-ear headsets should
+        look better on them now!
+  id: 2360
+  time: '2026-07-08T13:56:26.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/289
