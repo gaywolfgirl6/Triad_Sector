@@ -2221,3 +2221,12 @@ Entries:
   id: 2358
   time: '2026-07-08T12:29:22.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/107
+- author: Upstream
+  changes:
+    - type: Add
+      message: >-
+        Additional spray painter features have been ported from Wizard's Den. A
+        Palette button, rotation buttons, and a color picker.
+  id: 2359
+  time: '2026-07-08T13:53:31.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/292
