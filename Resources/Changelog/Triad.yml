@@ -2313,3 +2313,16 @@ Entries:
   id: 2369
   time: '2026-07-09T13:24:50.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/310
+- author: TheRealMasterChief117
+  changes:
+    - type: Fix
+      message: >-
+        The Chrono-legionnaires have retrieved the space biomes from Colossus
+        Central, Space Biomes now appear again.
+    - type: Fix
+      message: Fixed drones taking the day off
+    - type: Fix
+      message: Various tiny Venmar Station fixes relating to disposals mainly
+  id: 2370
+  time: '2026-07-09T16:25:26.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/313
