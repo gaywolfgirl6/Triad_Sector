@@ -42,6 +42,9 @@
     useSound:
       path: /Audio/Items/crowbar.ogg
   - type: Prying
+    force: true # Triad
+    pryPowered: true # Triad
+    useSound: /Audio/Items/jaws_pry.ogg # Triad
   - type: ToolTileCompatible
   - type: Clothing
     sprite: Nyanotrasen/Objects/Weapons/Melee/breaching_hammer.rsi
