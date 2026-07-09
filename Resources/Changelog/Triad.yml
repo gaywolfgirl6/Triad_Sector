@@ -2276,3 +2276,12 @@ Entries:
   id: 2365
   time: '2026-07-08T21:47:48.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/301
+- author: Eillyrea
+  changes:
+    - type: Fix
+      message: >-
+        GODS OF MAPTOSIA IF THERE ARE NO MORE ISSUES WITH VENMAR THEN MY SOUL IS
+        YOURS!!!!!
+  id: 2366
+  time: '2026-07-09T00:29:40.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/305
