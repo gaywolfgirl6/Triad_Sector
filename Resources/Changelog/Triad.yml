@@ -2347,3 +2347,12 @@ Entries:
   id: 2372
   time: '2026-07-10T00:35:01.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/318
+- author: DDrakov
+  changes:
+    - type: Add
+      message: Add windoor CE and Warden
+    - type: Add
+      message: Turrets for TDF
+  id: 2373
+  time: '2026-07-10T13:02:28.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/319
