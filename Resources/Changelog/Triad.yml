@@ -2407,3 +2407,30 @@ Entries:
   id: 2378
   time: '2026-07-10T13:52:27.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/287
+- author: TheRealMasterChief117
+  changes:
+    - type: Fix
+      message: Maybe fix weird SOP/law guidebook formatting
+    - type: Tweak
+      message: >-
+        Sector Law - Conspiring to commit a crime is now only half the original
+        sentence.
+    - type: Tweak
+      message: >-
+        Sector Law - Removed Individual to Ship Destruction and Ship to Ship
+        Destruction. They have been replaced with destruction of property.
+    - type: Tweak
+      message: >-
+        Sector Law - Added Grand Destruction of property and Destruction of
+        property laws
+    - type: Tweak
+      message: >-
+        SOP, Smuggling - Hailing procedure no longer requires powering down of
+        ship, only to disable gunnery and shuttle consoles and enable FTL lock.
+    - type: Tweak
+      message: >-
+        SOP - Belligerent Vessel's Aggression & Naval Engagements has been
+        renamed to Naval Engagements
+  id: 2379
+  time: '2026-07-10T14:20:14.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/321
