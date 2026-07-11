@@ -2491,3 +2491,10 @@ Entries:
   id: 2386
   time: '2026-07-11T16:35:57.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/329
+- author: Eillyrea
+  changes:
+    - type: Add
+      message: ToggleNetworkLinks Command to help with mappping
+  id: 2387
+  time: '2026-07-11T22:05:23.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/335
