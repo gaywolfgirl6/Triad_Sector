@@ -13,7 +13,7 @@
   price: 138000
   category: Large
   group: Shipyard
-  shuttlePath: /Maps/_Triad/Shuttles/horizon.yml
+  shuttlePath: /Maps/_Triad/Shuttles/CIV/horizon.yml
   #guidebookPage: ShipyardHorizon
   class:
   - Civilian
@@ -23,7 +23,7 @@
 - type: gameMap
   id: Horizon
   mapName: 'horizon'
-  mapPath: /Maps/_Triad/Shuttles/horizon.yml
+  mapPath: /Maps/_Triad/Shuttles/CIV/horizon.yml
   minPlayers: 0
   stations:
     horizon:
