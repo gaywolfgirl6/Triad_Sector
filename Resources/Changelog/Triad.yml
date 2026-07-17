@@ -2756,3 +2756,16 @@ Entries:
   id: 2411
   time: '2026-07-17T20:37:31.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/375
+- author: Wuffindy
+  changes:
+    - type: Add
+      message: Added more turrets for TDF, Future Factions and Syndicate
+    - type: Tweak
+      message: Changed the laser type of TDF Laser turret into something stronger
+    - type: Tweak
+      message: >-
+        All default turret range has been increased to 12 tiles, about the same
+        range as your peek/zoom view
+  id: 2412
+  time: '2026-07-17T22:52:04.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/256
