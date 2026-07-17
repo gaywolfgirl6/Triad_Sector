@@ -2691,3 +2691,10 @@ Entries:
   id: 2407
   time: '2026-07-16T19:44:58.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/369
+- author: Khaomi
+  changes:
+    - type: Remove
+      message: Removed Lone Digger by Caravan Palace from Jukebox for copyright reason
+  id: 2408
+  time: '2026-07-17T07:03:43.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/372
