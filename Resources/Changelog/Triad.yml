@@ -2769,3 +2769,10 @@ Entries:
   id: 2412
   time: '2026-07-17T22:52:04.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/256
+- author: TheRealMasterChief117
+  changes:
+    - type: Fix
+      message: Fixed sinks and drains not being able to be pulled.
+  id: 2413
+  time: '2026-07-17T22:58:55.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/377
