@@ -14,7 +14,7 @@ ledger-balance = Balance:
 ledger-no-balance = N/A
 
 ledger-tab-Frontier = Colonial Outpost
-ledger-tab-Nfsd = TDF
+ledger-tab-TDF = TDF
 ledger-tab-Medical = Medical Dispatch
 ledger-tab-BlackMarket = Black Market
 ledger-tab-Edison = Edison
