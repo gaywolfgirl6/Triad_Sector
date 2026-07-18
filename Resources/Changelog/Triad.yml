@@ -2810,3 +2810,16 @@ Entries:
   id: 2417
   time: '2026-07-18T00:56:00.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/378
+- author: DDrakov
+  changes:
+    - type: Tweak
+      message: Increase RP for Voucher
+    - type: Tweak
+      message: Decrease voucher crafting time by 40%
+    - type: Tweak
+      message: >-
+        Increase Riot MMG recoil and decrease it's recoil decay, it's nerf or
+        nothing.
+  id: 2418
+  time: '2026-07-18T00:57:08.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/379
