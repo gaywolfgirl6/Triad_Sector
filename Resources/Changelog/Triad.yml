@@ -2783,3 +2783,10 @@ Entries:
   id: 2414
   time: '2026-07-17T23:01:35.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/374
+- author: TheRealMasterChief117
+  changes:
+    - type: Tweak
+      message: The Warden and Patrol Team Leaders now have access to the TDF funding.
+  id: 2415
+  time: '2026-07-18T00:18:22.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/376
