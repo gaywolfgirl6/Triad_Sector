@@ -8,6 +8,6 @@ job-name-tdf-cadet = Junior Enforcer
 job-name-plant-manager = Plant Manager
 job-name-plant-technician = Plant Technician
 
-# TDF High Command
-job-name-tdf-high-commander = High Commander
-job-name-tdf-high-command-intern = High Command Intern
+# TFA High Command
+job-name-tfa-high-command = High Command Official
+job-name-tfa-high-command-intern = High Command Intern
