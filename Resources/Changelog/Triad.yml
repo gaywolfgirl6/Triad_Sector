@@ -2913,3 +2913,16 @@ Entries:
   id: 2426
   time: '2026-07-20T15:03:04.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/386
+- author: SquishyEmmaaaa
+  changes:
+    - type: Add
+      message: Added yellow and black crystals, crystal shards, and light tubes.
+    - type: Fix
+      message: Fixed an issue where small lights are too hard to shoot.
+    - type: Fix
+      message: >-
+        Fixed a bug where dragged objects would collide with wall mounted lights
+        and cameras.
+  id: 2427
+  time: '2026-07-20T15:04:42.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/365
