@@ -26,7 +26,7 @@
       whitelist:
         components:
         - IdCard
-        - ComputerShipyardBase # Triad
+        - ShipyardVoucher
     newAccessLevels: [Captain]
     shipSaveBlacklist:
       components:
