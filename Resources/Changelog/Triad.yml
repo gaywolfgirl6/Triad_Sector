@@ -2873,3 +2873,10 @@ Entries:
   id: 2422
   time: '2026-07-20T11:34:21.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/380
+- author: NEWSUI
+  changes:
+    - type: Add
+      message: 'Added new expedition ship, The Prospector '
+  id: 2423
+  time: '2026-07-20T11:42:43.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/366
