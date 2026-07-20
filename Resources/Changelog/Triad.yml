@@ -2891,3 +2891,14 @@ Entries:
   id: 2424
   time: '2026-07-20T13:12:07.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/370
+- author: TheRealMasterChief117
+  changes:
+    - type: Tweak
+      message: >-
+        Reptilian sprites for the syndicate hardsuits have been redone, and
+        should look a lot better and not like a completely different suit!
+    - type: Tweak
+      message: Resprited humans to be inline with the art direction.
+  id: 2425
+  time: '2026-07-20T13:35:56.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/384
