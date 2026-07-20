@@ -2935,3 +2935,10 @@ Entries:
   id: 2428
   time: '2026-07-20T16:02:41.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/390
+- author: Eillyrea
+  changes:
+    - type: Tweak
+      message: Huge Auric visual overhaul, nearly done I promise
+  id: 2429
+  time: '2026-07-20T20:14:18.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/391
