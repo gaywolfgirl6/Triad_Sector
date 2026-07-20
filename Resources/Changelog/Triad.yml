@@ -2926,3 +2926,12 @@ Entries:
   id: 2427
   time: '2026-07-20T15:04:42.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/365
+- author: Wuffindy
+  changes:
+    - type: Fix
+      message: >-
+        Fixed LPB's third AI Core not receiving power due to not having any
+        reachable wire
+  id: 2428
+  time: '2026-07-20T16:02:41.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/390
