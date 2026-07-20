@@ -2866,3 +2866,10 @@ Entries:
   id: 2421
   time: '2026-07-19T19:59:30.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/383
+- author: NEWSUI
+  changes:
+    - type: Add
+      message: Added new merc only ship, the Palisade
+  id: 2422
+  time: '2026-07-20T11:34:21.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/380
