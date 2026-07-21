@@ -2949,3 +2949,16 @@ Entries:
   id: 2430
   time: '2026-07-21T13:41:48.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/393
+- author: SketchiiArtist
+  changes:
+    - type: Add
+      message: Added ability to construct sinks!
+    - type: Add
+      message: Added ability to construct drains!
+    - type: Add
+      message: >-
+        Added ability to construct extinguisher, defibrillator, and fire axe
+        cabinets!
+  id: 2431
+  time: '2026-07-21T17:50:12.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/278
