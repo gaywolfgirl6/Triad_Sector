@@ -2976,3 +2976,10 @@ Entries:
   id: 2433
   time: '2026-07-21T19:07:56.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/398
+- author: Eillyrea
+  changes:
+    - type: Add
+      message: Scrubbers can be set to scrub when above a certain percentage of a gas
+  id: 2434
+  time: '2026-07-21T22:17:26.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/399
