@@ -2,10 +2,10 @@
   abstract: true
   id: NFBaseSoftOreVein
   components:
-  - type: OreVein
-    gatherDestructionWhitelist:
-      components:
-      - MiningGatheringHard
+  - type: OreVein # Triad - disable the below whitelist. All weapons should yield ore.
+    #gatherDestructionWhitelist:
+    #  components:
+    #  - MiningGatheringHard
 
 - type: entity
   parent: [NFBaseSoftOreVein, AsteroidRock]
