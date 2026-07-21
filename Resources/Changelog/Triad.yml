@@ -2942,3 +2942,10 @@ Entries:
   id: 2429
   time: '2026-07-20T20:14:18.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/391
+- author: gaywolfgirl6
+  changes:
+    - type: Tweak
+      message: Thrusters, Atmos, Wiring Visuals, a lot a lot a lot a lot
+  id: 2430
+  time: '2026-07-21T13:41:48.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/393
