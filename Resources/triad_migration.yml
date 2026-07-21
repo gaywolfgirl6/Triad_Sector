@@ -50,3 +50,6 @@ AirlockTdfHighCommandGlassLocked: AirlockTfaHighCommandGlassLocked
 AirlockTdfHighCommand: AirlockTfaHighCommand
 AirlockTdfHighCommandLocked: AirlockTfaHighCommandLocked
 VendingMachineTdfHighCommandDrobe: VendingMachineTfaHighCommandDrobe
+
+# 2026-07-21
+ColoredLightTubeUltraviolet: LightTubeUltraviolet
