@@ -2962,3 +2962,10 @@ Entries:
   id: 2431
   time: '2026-07-21T17:50:12.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/278
+- author: HameyTychol
+  changes:
+    - type: Remove
+      message: Removed the ability to self execute
+  id: 2432
+  time: '2026-07-21T18:36:07.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/397
