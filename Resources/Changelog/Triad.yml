@@ -2983,3 +2983,10 @@ Entries:
   id: 2434
   time: '2026-07-21T22:17:26.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/399
+- author: Eillyrea
+  changes:
+    - type: Remove
+      message: Alive icon on the medhud
+  id: 2435
+  time: '2026-07-21T22:17:58.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/400
