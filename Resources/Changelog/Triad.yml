@@ -3022,3 +3022,18 @@ Entries:
   id: 2439
   time: '2026-07-23T03:58:20.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/408
+- author: Eillyrea
+  changes:
+    - type: Add
+      message: >-
+        Rules 1.7, 1.7A, 1.7B, 1.7C, 5.4, 9.4A, 9.7, 10.2D (Please see PR for
+        more details)
+    - type: Remove
+      message: Removed fun. I hate fun.
+    - type: Tweak
+      message: >-
+        Rules: 2.3, 8.8, 9.1, 9.3, 9.3A, 10.2, 10.3 (Please see PR for more
+        details)
+  id: 2440
+  time: '2026-07-23T05:24:49.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/395
