@@ -3037,3 +3037,12 @@ Entries:
   id: 2440
   time: '2026-07-23T05:24:49.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/395
+- author: TheRealMasterChief117
+  changes:
+    - type: Tweak
+      message: >-
+        Resprited the emergency EVA, EVA, prisoner EVA, and syndicate EVA to be
+        in-line with the art-style!
+  id: 2441
+  time: '2026-07-23T22:54:23.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/412
