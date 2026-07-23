@@ -3011,3 +3011,14 @@ Entries:
   id: 2438
   time: '2026-07-23T03:43:58.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/403
+- author: TheRealMasterChief117
+  changes:
+    - type: Add
+      message: >-
+        Added privacy holoprojectors, available in loadouts under the fun
+        category and at an autolathe and service techfab. You can press Z to
+        access its interface, where you'll be able to give a description of the
+        events happening past the privacy holoprojectors. 
+  id: 2439
+  time: '2026-07-23T03:58:20.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/408
