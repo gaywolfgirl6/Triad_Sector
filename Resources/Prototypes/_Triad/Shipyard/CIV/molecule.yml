@@ -9,7 +9,7 @@
   id: Molecule
   parent: BaseVessel
   name: DRD Molecule
-  description: A small and oddly shaped research vessel, built with space and power efficiency in mind.
+  description: A small and oddly shaped research vessel, built with space and power efficiency in mind. Comes with a Z-pinch fusion generator.
   price: 42000
   category: Small
   group: Shipyard
