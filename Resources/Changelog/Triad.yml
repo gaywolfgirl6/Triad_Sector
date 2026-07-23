@@ -3004,3 +3004,10 @@ Entries:
   id: 2437
   time: '2026-07-23T01:50:43.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/409
+- author: gaywolfgirl6
+  changes:
+    - type: Add
+      message: Added Science Vessel to the shipyard, the Molecule.
+  id: 2438
+  time: '2026-07-23T03:43:58.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/403
