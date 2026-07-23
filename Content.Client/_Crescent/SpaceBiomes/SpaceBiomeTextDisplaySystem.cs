@@ -61,9 +61,9 @@ public sealed class SpaceTextDisplaySystem : EntitySystem
 
         // Triad - fix divide by 0 error
         if (_overlay.Text == "")
-            _overlay.CharInterval = TimeSpan.FromSeconds(2f / _overlay.Text.Length);
-        else
             _overlay.CharInterval = TimeSpan.Zero;
+        else
+            _overlay.CharInterval = TimeSpan.FromSeconds(2f / _overlay.Text.Length);
         // Triad end
 
         if (_overlay.TextDescription == "")
