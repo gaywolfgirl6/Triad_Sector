@@ -3072,3 +3072,10 @@ Entries:
   id: 2444
   time: '2026-07-24T12:45:50.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/413
+- author: leafybonsai
+  changes:
+    - type: Add
+      message: TDF-Knight patrol ship
+  id: 2445
+  time: '2026-07-24T15:31:23.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/387
