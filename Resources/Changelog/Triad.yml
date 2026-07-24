@@ -3046,3 +3046,13 @@ Entries:
   id: 2441
   time: '2026-07-23T22:54:23.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/412
+- author: SquishyEmmaaaa
+  changes:
+    - type: Add
+      message: >-
+        Shielded lights can now be built, or upgraded from existing lights with
+        plasteel (remove the bulb first). These are much more resistant to solar
+        flares.
+  id: 2442
+  time: '2026-07-24T12:03:30.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/401
