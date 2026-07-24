@@ -3086,3 +3086,13 @@ Entries:
   id: 2446
   time: '2026-07-24T16:39:09.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/414
+- author: TheRealMasterChief117
+  changes:
+    - type: Add
+      message: >-
+        The Syndicate Weapons cache has been reworked; it has a completely new
+        dungeon-like design, TDF are not paid to guard it. Work with eachother
+        to clear it out!
+  id: 2447
+  time: '2026-07-24T16:48:03.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/402
