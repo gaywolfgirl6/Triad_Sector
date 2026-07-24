@@ -3063,3 +3063,12 @@ Entries:
   id: 2443
   time: '2026-07-24T12:18:05.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/407
+- author: PhosphateWithManyOs
+  changes:
+    - type: Add
+      message: >-
+        You can now put circuit boards and tiles into construction bags and
+        boxes.
+  id: 2444
+  time: '2026-07-24T12:45:50.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/413
